@@ -25,7 +25,7 @@ public fun <T> CoroutineScope.async(
 
 ### CoroutineContext
 
-- CoroutineScope의 주요 역할은 `CoroutineContext`라는 **데이터를 보관**하는 것.
+- CoroutineScope의 주요 역할은 [[CoroutineContext]]라는 **데이터를 보관**하는 것.
 ```kotlin
 public interface CoroutineScope {
 	public val coroutineContext: CoroutineContext
@@ -37,13 +37,16 @@ public interface CoroutineScope {
 ![[스크린샷 2023-09-21 오후 7.06.34.png]]
 부모 코루틴에서 자식 코루틴을 만드는 과정
 1. 자식 코루틴은 부모 코루틴과 같은 영역에서 생성된다.
-2. 생성될 때 이 영역의 context를 가져온 다음 필요한 정보를 덮어 써 새로운 context를 만든다.
-	 - 부모 코루틴의 context에서 직접 지정한 정보만 덮어써서 자식 코루틴의 context를 만든다.
+2.  부모 코루틴의 context에서 직접 지정한 정보만 덮어써서 자식 코루틴의 context를 만든다.
 3. 부모 - 자식 관계를 설정한다.
 
 이 원리가 [[Structured Concurrency]]를 작동시킬 수 있는 기반이 된다.
 
 클래스 내부에서 독립적인 CoroutineScope을 관리하면 해당 클래스에서 사용하던 코루틴을 한 번에 종료시킬 수 있다.
 ```kotlin
-class AsyncLogic {
-	private val scope = CoroutineScope(Dispatch
+val asyncLogic = AsyncLogic()
+asyncLogic.doSomething() // 비동기 작업 처리
+
+asyncLogic.destroy() // 필요가 없어지면 모두 정리
+```
+
