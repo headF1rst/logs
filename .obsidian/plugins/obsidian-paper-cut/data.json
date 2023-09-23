@@ -1,5 +1,5 @@
 {
   "PAPER_CUT_TAG": "limit",
   "PAPER_CUT_LIMIT": 1200,
-  "APPLY_TO_ALL": false
+  "APPLY_TO_ALL": true
 }
