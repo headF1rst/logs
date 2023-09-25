@@ -3,5 +3,6 @@
   "obsidian-tasks-plugin",
   "calendar",
   "periodic-notes",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-table-generator"
 ]
