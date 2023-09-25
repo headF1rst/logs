@@ -48,6 +48,4 @@ public interface CoroutineScope {
 val asyncLogic = AsyncLogic()
 asyncLogic.doSomething() // 비동기 작업 처리
 
-asyncLogic.destroy() // 필요가 없어지면 모두 정리
-```
-
+asyncLogic.destroy() // 필
