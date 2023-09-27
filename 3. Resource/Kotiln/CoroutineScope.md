@@ -1,6 +1,6 @@
 `CoroutineScope`: 코루틴이 탄생할 수 있는 영역.
 
-- [[코리틴 빌더]] (`launch`,  `async`)는 CoroutineScope의 확장함수이다.
+- [[코루틴 빌더]] (`launch`,  `async`)는 CoroutineScope의 확장함수이다.
 	- launch와 async를 사용하려면 CoroutineScope이 필요하다.
 - `runBlocking`을 통해 CoroutineScope을 제공해주고 있었다.
 	- root 코루틴을 만들어서 직접 CoroutineScope을 만든다면 runBlocking이 굳이 필요하지 않다.
