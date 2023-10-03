@@ -1,5 +1,4 @@
 `CoroutineContext`: 코루틴과 관련된 여러 **데이터**를 갖고있다.
-
 ### Map과 Set의 특징을 가진 자료구조와 같다
 - CoroutineContext에 저장되는 데이터는 `key - value`로 이루어져 있다.
 	- key - value 하나하나를 `Element` 라 부른다.

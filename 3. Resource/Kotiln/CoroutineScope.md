@@ -35,7 +35,9 @@ public interface CoroutineScope {
 
 `CoroutineContext`: 코루틴과 관련된 여러 **데이터**를 갖고있다.
 (Context안에는 현재 코루틴의 이름, CoroutineExceptionHandler, Job, Coroutine[[Dispatcher]]가 들어있다.)
-![[스크린샷 2023-09-21 오후 7.06.34.png]]
+
+![[스크린샷 2023-10-04 오전 12.12.54.png]]
+
 부모 코루틴에서 자식 코루틴을 만드는 과정
 1. 자식 코루틴은 부모 코루틴과 같은 영역에서 생성된다.
 2.  부모 코루틴의 context에서 직접 지정한 정보만 덮어써서 자식 코루틴의 context를 만든다.
