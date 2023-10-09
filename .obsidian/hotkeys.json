@@ -2,7 +2,7 @@
   "periodic-notes:open-daily-note": [
     {
       "modifiers": [
-        "Shift"
+        "Ctrl"
       ],
       "key": "1"
     }
