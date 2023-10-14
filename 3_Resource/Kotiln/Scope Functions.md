@@ -1,7 +1,7 @@
 #papercut
 
-`Scope Fuctions`: 객체 사용시 일시적으로 Scope를 만들어서 속성이나 함수를 처리하는 용도로 사용되는 함수
-([[let]], [[with]], [[run]], [[apply]], [[also]]).
+`Scope Fuctions`: [[3_Resource/Kotiln/lambda|lambda]]를 사용해서 **일시적인 영역을 만들고**, 코드를 간결하게 하거나, 메서드 체이닝에 활용하는 함수.
+([[let]], [[run]], [[apply]], [[also]], [[with]]).
 
 가독성 개선, 빌더 패턴 이용, 부가적인 후처리 등에 사용된다.
 
