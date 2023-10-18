@@ -6,7 +6,7 @@ JVM 환경에서 사용가능한 벤치마크 도구.
 ```bash
 // gradle 버전에 맡는 버전 선택
 plugins {
-	id "me.champeau.gradle.jmh" version "0.5.3"
+	id ("me.champeau.gradle.jmh") version "0.5.3"
 }
 
 // jmh 설정 적용
@@ -77,3 +77,15 @@ open class SequenceTest { // 테스트 대상은 확장 가능해야하므로 op
 ```
 
 JMH 실행 결과는 `build/reports/jmh`에 `results.txt`로 생성된다.
+
+### Blackhole
+- 메서드 내 리턴 타입이 없는 경우 사용하지 않는 코드로 인식하여 정확한 벤치마킹이 되지 않을 수 있다.
+- `Blackhole`은 JVM이 사용하지 않는 코드를 제거하는 최적화를 방지하는 데 사용.
+- JVM은 값을 제거하거나 변형하지 않으며 JVM 최적화 영향을 받지 않고 성능 측정이 가능하다.
+```kotlin
+@BenchMark
+fun benchmarkMeasure(blackhole: Blackhole) {
+	val result = execute()
+	blackhole.consume(result)
+}
+```
