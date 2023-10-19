@@ -1,6 +1,6 @@
 #papercut 
 
-JMH 결과 리포트를 시각화하여 볼 수 있다.
+[[JMH]] 결과 리포트를 시각화하여 볼 수 있다.
 
 ```bash
 plugins {
