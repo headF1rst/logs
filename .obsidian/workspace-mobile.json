@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "6845c39fcc7b857e",
+    "type": "split",
+    "children": [
+      {
+        "id": "217a5c11e7d2c301",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dd48d20bdc994a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_Resource/Architecture/모듈간 의존성 전파.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "966481264c299d62",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3741214eb3489bf5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a77878ee63db5d86",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ccd45a783201c258",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "06e2fec75b68fc01",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "87fc3cec6051c2c3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3b700d29ece0f16d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "3_Resource/Architecture/모듈간 의존성 전파.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ba8aad6a194fe70e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "3_Resource/Architecture/모듈간 의존성 전파.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fcda48a787bc894d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "3_Resource/Architecture/모듈간 의존성 전파.md"
+          }
+        }
+      },
+      {
+        "id": "bb9c84661e8ef6b6",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "2dd48d20bdc994a8",
+  "lastOpenFiles": [
+    "4_Archive/깃헙 계정 여러개 사용하기.md",
+    "1_Projects/RPS-E2E 코드 수정.md",
+    "3_Resource/Test/rest-assured.md",
+    "3_Resource/VueJs/Component.md",
+    "3_Resource/BigQuery/BigQuery.md",
+    "3_Resource/Spring/server.shutdown 옵션.md",
+    "Attachments/dos 1.png",
+    "Attachments/dos.png",
+    "Attachments/스크린샷 2023-11-06 오전 9.12.26.png",
+    "eqauls & hashCode.md",
+    "2_Area/Daily/20231106.md",
+    "2_Area/Kurly/DOS.md",
+    "2_Area/Kurly/딜리버리프로덕트.md",
+    "2_Area/Kurly/배송 정책.md",
+    "toString.md",
+    "eqauls.md",
+    "Attachments/스크린샷 2023-10-04 오전 9.28.01.png",
+    "2_Area/Daily/글또.md",
+    "Attachments/스크린샷 2023-10-03 오후 11.54.00.png",
+    "Attachments/스크린샷 2023-10-06 오후 1.08.45.png",
+    "Attachments/스크린샷 2023-10-06 오후 1.30.19.png",
+    "Attachments/스크린샷 2023-10-10 오후 2.03.22.png",
+    "Attachments/스크린샷 2023-10-04 오전 12.00.37.png",
+    "Attachments/스크린샷 2023-10-09 오후 5.45.23.png",
+    "2_Area/Daily/무제 파일.md",
+    "3_Resource/Test/ATDD.md",
+    "3_Resource/CS Basics/read-modify-write 순회.md",
+    "1. Projects.md",
+    "3_Resource/CS Basics/callback.md",
+    "3_Resource/CS Basics/CacheEvict.md",
+    "3_Resource/CS Basics/ACID.md",
+    "3_Resource/CS Basics/트랜잭션 전파.md",
+    "1_Projects/Work/기본 템플릿 적용 클릭 시, '최근 수정자', '최근 수정일' 필드 미표시됨.md",
+    "2_Area/Daily/2023-10-31.md",
+    "2_Area/Kurly/주문 등록 및 전송 시나리오.md",
+    "1_Projects/Work/옵저버 패턴 적용 계획.md"
+  ]
+}

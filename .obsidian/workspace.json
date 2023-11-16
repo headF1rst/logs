@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "8c7d1c697e0e1b2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec2acd9f38b1c04b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddb78aef4dfe6f61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_Archive/Work/희망휴무 배정 히트율 계산/Rule 제약조건 포함 쿼리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8d4e9d565875991",
+    "type": "split",
+    "children": [
+      {
+        "id": "20f6c1fd568a35df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7d133085be6a130",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "beb9ecf4bc7927c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f53fdc515a6f2bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.50260543823242,
+    "collapsed": true
+  },
+  "right": {
+    "id": "eabd4af1e223b2ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bae369c78a4a39b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75652c2c456dc0e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4_Archive/Work/희망휴무 배정 히트율 계산/Rule 제약조건 포함 쿼리.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "faa1063044ad11f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4_Archive/Work/희망휴무 배정 히트율 계산/Rule 제약조건 포함 쿼리.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a21310ce9e7dc0f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e1cbbdaffa452407",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4_Archive/Work/희망휴무 배정 히트율 계산/Rule 제약조건 포함 쿼리.md"
+              }
+            }
+          },
+          {
+            "id": "49e0ee8ade8875c4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "ddb78aef4dfe6f61",
+  "lastOpenFiles": [
+    "4_Archive/Work/희망휴무 배정 히트율 계산/개인별 희망휴무 할당률.md",
+    "Attachments/스크린샷 2023-11-16 오전 12.24.39.png",
+    "4_Archive/Work/희망휴무 배정 히트율 계산/Rule 제약조건 포함 쿼리.md",
+    "1_Projects/문자열 붙이기.md",
+    "1_Projects/ELB.md",
+    "1_Projects/쿼리 상신 목록.md",
+    "4_Archive/Work/희망휴무 배정 히트율 계산/희망휴무 분석용 데이터 추출 쿼리.md",
+    "4_Archive/Work/희망휴무 배정 히트율 계산/희망휴무 대상 테이블 정보.md",
+    "4_Archive/Work/희망휴무 배정 히트율 계산/휴무일 기반 쿼리.md",
+    "3_Resource/BigQuery/BigQuery.md",
+    "3_Resource/공통코드.md",
+    "3_Resource/Architecture/모듈을 나누는 기준.md",
+    "Attachments/스크린샷 2023-11-16 오전 12.32.16.png",
+    "Attachments/스크린샷 2023-11-16 오전 12.28.15.png",
+    "Attachments/스크린샷 2023-11-16 오전 12.25.31.png",
+    "3_Resource/Architecture/모듈간 의존성 전파.md",
+    "3_Resource/Architecture/헥사고날 아키텍처.md",
+    "3_Resource/Architecture/레이어.md",
+    "3_Resource/Architecture/레이어 제약조건.md",
+    "Attachments/스크린샷 2023-11-15 오후 5.06.24.png",
+    "2_Area/Kurly/목표생산성 삽입.md",
+    "2_Area/Kurly/생산성 입력.md",
+    "2_Area/Kurly/딜리버리프로덕트.md",
+    "2_Area/Kurly/개발 환경 배포 절차.md",
+    "2_Area/Daily/글또.md",
+    "스크린샷 2023-11-15 오후 1.06.35.png",
+    "2_Area/Kurly/배송지 조회.md",
+    "2_Area/Kurly/배송 정책.md",
+    "1_Projects/Work/빅쿼리 구글 스프레드 시트 연동.md",
+    "2_Area/Daily/무제 파일.md",
+    "2_Area/Kurly/OPEN API 연동 토큰 생성법.md",
+    "Attachments/스크린샷 2023-11-12 오후 8.37.16.png",
+    "Attachments/스크린샷 2023-11-12 오후 8.38.08.png",
+    "Attachments/스크린샷 2023-11-11 오후 5.19.23.png",
+    "Attachments/스크린샷 2023-11-11 오후 5.35.20.png",
+    "3_Resource/Docker",
+    "3_Resource/BigQuery",
+    "3_Resource/Architecture",
+    "3_Resource/VueJs",
+    "3_Resource/HTTP",
+    "4_Archive/Work",
+    "2_Area/Kurly",
+    "4_Archive/Work/희망휴무 배정 히트율 계산",
+    "3_Resource/Java",
+    "3_Resource/Benchmark",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas",
+    "무제 파일 3.canvas",
+    "무제 파일 2.canvas"
+  ]
+}
