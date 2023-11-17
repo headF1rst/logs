@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec2acd9f38b1c04b",
+        "id": "c747e810e9fb6f6c",
         "type": "tabs",
         "children": [
           {
-            "id": "ddb78aef4dfe6f61",
+            "id": "0f36abdca0993153",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_Archive/Work/희망휴무 배정 히트율 계산/Rule 제약조건 포함 쿼리.md",
+                "file": "2_Area/Daily/20231116 스터디.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_Archive/Work/희망휴무 배정 히트율 계산/Rule 제약조건 포함 쿼리.md",
+                "file": "2_Area/Daily/20231116 스터디.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_Archive/Work/희망휴무 배정 히트율 계산/Rule 제약조건 포함 쿼리.md",
+                "file": "2_Area/Daily/20231116 스터디.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_Archive/Work/희망휴무 배정 히트율 계산/Rule 제약조건 포함 쿼리.md"
+                "file": "2_Area/Daily/20231116 스터디.md"
               }
             }
           },
@@ -156,11 +156,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ddb78aef4dfe6f61",
+  "active": "0f36abdca0993153",
   "lastOpenFiles": [
+    "2_Area/Daily/20231106.md",
+    "2_Area/Daily/20231116 스터디.md",
+    "3_Resource/ApplicationEventPublisher.md",
     "4_Archive/Work/희망휴무 배정 히트율 계산/개인별 희망휴무 할당률.md",
-    "Attachments/스크린샷 2023-11-16 오전 12.24.39.png",
+    "4_Archive/Work/희망휴무 배정 히트율 계산/추가 진행 사항.md",
+    "2_Area/Daily/무제 파일 1.md",
+    "2_Area/Daily/무제 파일 2.md",
+    "1_Projects/희망휴무 분석 쿼리 Bigquery 문법으로 수정하기.md",
     "4_Archive/Work/희망휴무 배정 히트율 계산/Rule 제약조건 포함 쿼리.md",
+    "3_Resource/CS Basics/엔드 포인트.md",
+    "3_Resource/Spring/ApiIgnore.md",
+    "Attachments/스크린샷 2023-11-16 오후 10.24.31.png",
+    "2_Area/장애 모음/231116 배송매니저 앱 세션 만료.md",
+    "Attachments/스크린샷 2023-11-16 오후 8.34.31.png",
+    "2_Area/장애 모음",
+    "3_Resource/Spring/Web Component.md",
+    "3_Resource/Spring/Web Container.md",
+    "Attachments/스크린샷 2023-11-16 오전 12.24.39.png",
     "1_Projects/문자열 붙이기.md",
     "1_Projects/ELB.md",
     "1_Projects/쿼리 상신 목록.md",
@@ -176,23 +191,10 @@
     "3_Resource/Architecture/모듈간 의존성 전파.md",
     "3_Resource/Architecture/헥사고날 아키텍처.md",
     "3_Resource/Architecture/레이어.md",
-    "3_Resource/Architecture/레이어 제약조건.md",
     "Attachments/스크린샷 2023-11-15 오후 5.06.24.png",
-    "2_Area/Kurly/목표생산성 삽입.md",
-    "2_Area/Kurly/생산성 입력.md",
-    "2_Area/Kurly/딜리버리프로덕트.md",
-    "2_Area/Kurly/개발 환경 배포 절차.md",
-    "2_Area/Daily/글또.md",
     "스크린샷 2023-11-15 오후 1.06.35.png",
-    "2_Area/Kurly/배송지 조회.md",
-    "2_Area/Kurly/배송 정책.md",
-    "1_Projects/Work/빅쿼리 구글 스프레드 시트 연동.md",
-    "2_Area/Daily/무제 파일.md",
-    "2_Area/Kurly/OPEN API 연동 토큰 생성법.md",
     "Attachments/스크린샷 2023-11-12 오후 8.37.16.png",
     "Attachments/스크린샷 2023-11-12 오후 8.38.08.png",
-    "Attachments/스크린샷 2023-11-11 오후 5.19.23.png",
-    "Attachments/스크린샷 2023-11-11 오후 5.35.20.png",
     "3_Resource/Docker",
     "3_Resource/BigQuery",
     "3_Resource/Architecture",
@@ -202,7 +204,6 @@
     "2_Area/Kurly",
     "4_Archive/Work/희망휴무 배정 히트율 계산",
     "3_Resource/Java",
-    "3_Resource/Benchmark",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "무제 파일 3.canvas",

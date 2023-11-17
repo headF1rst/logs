@@ -71,3 +71,4 @@ class MemberEventHandler(
 
 [[주문 등록 및 전송 시나리오]]
 [ApplicationEventPublisher 기반으로 강결합 및 트랜잭션 문제 해결](https://cheese10yun.github.io/event-transaction/)
+
