@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Area/Daily/20231116 스터디.md",
+                "file": "4_Archive/Work/희망휴무 배정 히트율 계산/개인별 희망휴무 할당률.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1f93d52f2f485d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/희망휴무 분석 쿼리 Bigquery 문법으로 수정하기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Area/Daily/20231116 스터디.md",
+                "file": "1_Projects/희망휴무 분석 쿼리 Bigquery 문법으로 수정하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Area/Daily/20231116 스터디.md",
+                "file": "1_Projects/희망휴무 분석 쿼리 Bigquery 문법으로 수정하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Area/Daily/20231116 스터디.md"
+                "file": "1_Projects/희망휴무 분석 쿼리 Bigquery 문법으로 수정하기.md"
               }
             }
           },
@@ -156,16 +169,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0f36abdca0993153",
+  "active": "f1f93d52f2f485d4",
   "lastOpenFiles": [
-    "2_Area/Daily/20231106.md",
-    "2_Area/Daily/20231116 스터디.md",
-    "3_Resource/ApplicationEventPublisher.md",
     "4_Archive/Work/희망휴무 배정 히트율 계산/개인별 희망휴무 할당률.md",
+    "1_Projects/희망휴무 분석 쿼리 Bigquery 문법으로 수정하기.md",
+    "2_Area/Daily/20231116 스터디.md",
+    "2_Area/Daily/20231106.md",
+    "3_Resource/ApplicationEventPublisher.md",
     "4_Archive/Work/희망휴무 배정 히트율 계산/추가 진행 사항.md",
     "2_Area/Daily/무제 파일 1.md",
     "2_Area/Daily/무제 파일 2.md",
-    "1_Projects/희망휴무 분석 쿼리 Bigquery 문법으로 수정하기.md",
     "4_Archive/Work/희망휴무 배정 히트율 계산/Rule 제약조건 포함 쿼리.md",
     "3_Resource/CS Basics/엔드 포인트.md",
     "3_Resource/Spring/ApiIgnore.md",
