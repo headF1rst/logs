@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Resource/Spring/gradle.properties.md",
+                "file": "2_Area/Ideas/커스텀 키보드 공제 서비스.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "eabd4af1e223b2ce",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_Resource/Spring/gradle.properties.md",
+                "file": "2_Area/Ideas/커스텀 키보드 공제 서비스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_Resource/Spring/gradle.properties.md",
+                "file": "2_Area/Ideas/커스텀 키보드 공제 서비스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Resource/Spring/gradle.properties.md"
+                "file": "2_Area/Ideas/커스텀 키보드 공제 서비스.md"
               }
             }
           },
@@ -158,33 +159,34 @@
   "active": "c0e8b187fe896a8a",
   "lastOpenFiles": [
     "2_Area/Ideas/keyboard-maniac-sns 프로젝트 구조.md",
-    "3_Resource/Spring/gradle.properties.md",
-    "2_Area/Ideas/화장실 비번 알려주는 어플.md",
-    "3_Resource/Kotiln/Ktlint.md",
-    "JMS.md",
-    "ActiveMQ.md",
+    "2_Area/Ideas/커스텀 키보드 공제 서비스.md",
+    "3_Resource/Kotiln/Primitive Type, Reference Type.md",
+    "3_Resource/Kotiln/Safe call.md",
+    "3_Resource/Java/Reference Type.md",
+    "3_Resource/Java/call by value.md",
+    "3_Resource/Java/Primitive Type.md",
+    "3_Resource/Java/record.md",
+    "3_Resource/Java/가상 스레드.md",
+    "3_Resource/Java/lambda.md",
+    "2_Area/용어 모음/지연 배송.md",
+    "2_Area/Daily/휴게시간 제한 해제 개발건 회의록.md",
+    "2_Area/Daily/무제 파일.md",
+    "2_Area/Daily/무제 파일 2.md",
+    "2_Area/용어 모음/택배대행.md",
     "2_Area/Kurly/운영 환경 배포 절차.md",
     "2_Area/Kurly/stg 환경 배포 절차.md",
-    "2_Area/용어 모음/송장 채번.md",
-    "2_Area/용어 모음/택배대행.md",
+    "2_Area/Kurly/개발 환경 배포 절차.md",
+    "Attachments/스크린샷 2023-11-26 오후 11.52.29.png",
+    "2_Area/글또 룰.md",
+    "JMS.md",
+    "Tasklet.md",
+    "ActiveMQ.md",
     "데이터웨어하우스.md",
+    "3_Resource/Spring/spring boot.md",
+    "3_Resource/Spring/yml 환경변수 주입.md",
+    "3_Resource/Spring/WebClient.md",
     "Attachments/스크린샷 2023-11-23 오후 10.58.22.png",
-    "2_Area/용어 모음/주소 정제.md",
     "Attachments/스크린샷 2023-11-23 오후 10.57.36.png",
-    "2_Area/Kurly/TC 주문 단건 수정.md",
-    "2_Area/Kurly/TC 주문 등록 엑셀 업로드.md",
-    "2_Area/Kurly/TC주문 등록.md",
-    "2_Area/Kurly/주소 정제.md",
-    "2_Area/Kurly/주문 등록 및 전송 시나리오.md",
-    "2_Area/Kurly/TOMS.md",
-    "1_Projects/Work/TOMS 사용자관리 메뉴 페이징 처리 오류 수정.md",
-    "2_Area/Kurly/WMS.md",
-    "2_Area/Kurly/TMS.md",
-    "2_Area/Kurly/TAM.md",
-    "2_Area/Kurly/OPEN API 연동 토큰 생성법.md",
-    "2_Area/Kurly/OMS.md",
-    "2_Area/Kurly/DOS.md",
-    "2_Area/Kurly/생산성 입력.md",
     "Attachments/스크린샷 2023-11-23 오후 3.33.34.png",
     "Attachments/스크린샷 2023-11-23 오후 2.48.11.png",
     "Attachments/스크린샷 2023-11-21 오전 12.01.36.png",
@@ -193,7 +195,6 @@
     "Attachments/스크린샷 2023-11-23 오전 11.46.08.png",
     "Attachments/스크린샷 2023-11-21 오전 12.02.02.png",
     "2_Area/용어 모음",
-    "Attachments/스크린샷 2023-11-20 오전 11.06.13.png",
     "2_Area/장애 모음",
     "3_Resource/Docker",
     "3_Resource/BigQuery",

@@ -18,3 +18,9 @@ kotlinVersion=1.9.20
 javaVersion=17
 ```
 
+다음과 같이 property에 접근해서 값을 가져온다.
+
+`build.gradle`
+```bash
+group = "${property("projectGroup")}"
+```
