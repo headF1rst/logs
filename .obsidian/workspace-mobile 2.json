@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "740860c38e5ae339",
+    "type": "split",
+    "children": [
+      {
+        "id": "1689d6d391d92c3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "570a52b24bffaaf9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec7b97c92a7b32c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회고 20231128.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7931025301e65de",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "08e28d1cd4a32ba8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1f4d8bf0b68f4d76",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0a62b954e204004f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1807bb3bf8f56269",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7a3e7077eb97cccd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d14e8c44b473a827",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "회고 20231128.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a17a5374d3648e18",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "회고 20231128.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c26125b14b182da4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "회고 20231128.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "ec7b97c92a7b32c3",
+  "lastOpenFiles": [
+    "Attachments/스크린샷 2023-11-16 오전 12.25.31.png",
+    "Attachments/스크린샷 2023-11-16 오전 12.28.15.png",
+    "Attachments/스크린샷 2023-11-16 오전 12.32.16.png",
+    "Attachments/스크린샷 2023-11-16 오전 12.24.39.png",
+    "4_Archive/Work/희망휴무 분석 쿼리 Bigquery 문법으로 수정하기.md",
+    "Attachments/스크린샷 2023-11-06 오전 9.11.30.png",
+    "Attachments/스크린샷 2023-11-06 오전 9.13.18.png",
+    "Attachments/스크린샷 2023-10-31 오후 10.45.46.png",
+    "Attachments/스크린샷 2023-11-06 오전 9.11.55.png",
+    "Attachments/스크린샷 2023-11-06 오전 9.12.26.png",
+    "Attachments/스크린샷 2023-11-11 오후 5.19.42.png",
+    "2_Area/용어 모음/주소 정제.md",
+    "3_Resource/HTTP/Open API.md",
+    "무제 파일 2.md",
+    "Attachments/스크린샷 2023-11-16 오후 10.24.31.png",
+    "4_Archive/Work/희망휴무 배정 히트율 계산/개인별 희망휴무 할당률.md",
+    "4_Archive/Work/희망휴무 배정 히트율 계산/Rule 제약조건 포함 쿼리.md",
+    "2_Area/장애 모음/231116 배송매니저 앱 세션 만료.md",
+    "3_Resource/Spring/spring boot.md",
+    "2_Area/Kurly/주문 등록 및 전송 시나리오.md",
+    "3_Resource/Spring/Web Container.md",
+    "3_Resource/Java/Primitive Type.md",
+    "2_Area/Daily/휴게시간 제한 해제 개발건 회의록.md",
+    "Tasklet.md",
+    "2_Area/Daily/20231116 스터디.md",
+    "2_Area/용어 모음/송장.md",
+    "2_Area/용어 모음/송장 대역.md",
+    "4_Archive/Work/희망휴무 히트율 빅쿼리 스케줄링.md",
+    "2_Area/Kurly/그냥 궁금한것들.md",
+    "3_Resource/Spring/Web Component.md",
+    "3_Resource/Kotiln/Primitive Type, Reference Type.md",
+    "3_Resource/Kotiln/Ktlint.md",
+    "4_Archive/Work/빅쿼리 스케줄링 방법.md",
+    "4_Archive/Work/기본 템플릿 적용 클릭 시, '최근 수정자', '최근 수정일' 필드 미표시됨.md",
+    "2_Area/글또 룰.md",
+    "3_Resource/Java/Reference Type.md"
+  ]
+}
