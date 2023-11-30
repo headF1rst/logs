@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Area/Kurly/비즈니스 로직 모음/메세지 템플릿 sms 전송 Flow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1e652324509fc39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Area/Kurly/BTS.md",
+                "file": "3_Resource/Spring/schema.sql.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Area/Kurly/비즈니스 로직 모음/메세지 템플릿 sms 전송 Flow.md",
+                "file": "3_Resource/Spring/schema.sql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Area/Kurly/비즈니스 로직 모음/메세지 템플릿 sms 전송 Flow.md",
+                "file": "3_Resource/Spring/schema.sql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Area/Kurly/비즈니스 로직 모음/메세지 템플릿 sms 전송 Flow.md"
+                "file": "3_Resource/Spring/schema.sql.md"
               }
             }
           },
@@ -169,43 +157,43 @@
   },
   "active": "8f6508b652d59887",
   "lastOpenFiles": [
-    "스크린샷 2023-11-29 오후 7.05.07.png",
-    "2_Area/Kurly/비즈니스 로직 모음/주소 정제 Flow.md",
+    "3_Resource/Spring/data.sql.md",
+    "3_Resource/Spring/yml 환경변수 주입.md",
+    "3_Resource/Spring/WebClient.md",
+    "3_Resource/Spring/server.shutdown 옵션.md",
+    "3_Resource/Spring/Servlet.md",
+    "3_Resource/Spring/schema.sql.md",
     "2_Area/Kurly/비즈니스 로직 모음/메세지 템플릿 sms 전송 Flow.md",
+    "20231130 스터디.md",
+    "1_Projects/Work/TOMS 미배송상황을 확장해서 보여주자..md",
+    "3_Resource/Kafka/UI for Apache Kafka.md",
+    "1_Projects/Work/사소한 코드 수정건.md",
+    "3_Resource/Kafka/kafkaTemplate.md",
+    "3_Resource/Kafka/이벤트 브로커.md",
+    "3_Resource/Kafka/broker.md",
+    "3_Resource/Kafka/partitioner.md",
+    "3_Resource/Kafka/partition.md",
+    "3_Resource/Kafka/topic.md",
+    "3_Resource/Java/Enum.md",
+    "2_Area/Kurly/BTS.md",
+    "2_Area/글또 룰.md",
+    "Attachments/스크린샷 2023-11-29 오후 7.05.07.png",
+    "2_Area/Kurly/비즈니스 로직 모음/주소 정제 Flow.md",
     "2_Area/Kurly/비즈니스 로직 모음/주문 등록 Flow.md",
     "2_Area/Kurly/TC 주문 단건 수정.md",
     "2_Area/Kurly/TC 주문 등록 엑셀 업로드.md",
     "2_Area/Kurly/TAM.md",
     "2_Area/Kurly/OPEN API 연동 토큰 생성법.md",
     "2_Area/Kurly/비즈니스 로직 모음",
-    "1_Projects/Work/TOMS 미배송상황을 확장해서 보여주자..md",
-    "2_Area/Kurly/BTS.md",
     "Attachments/스크린샷 2023-11-29 오후 5.17.09.png",
-    "1_Projects/Work/20231128 계획.md",
-    "1_Projects/Work/사소한 코드 수정건.md",
-    "2_Area/용어 모음/지연 배송.md",
-    "2_Area/용어 모음/택배대행.md",
-    "2_Area/용어 모음/터미널 코드.md",
     "Attachments/스크린샷 2023-11-29 오전 11.05.39.png",
-    "2_Area/Daily/휴게시간 제한 해제 개발건 회의록.md",
-    "2_Area/Daily/무제 파일 2.md",
-    "2_Area/Daily/무제 파일.md",
-    "2_Area/Daily/2023-10-16.md",
-    "2_Area/Daily/2023-10-31.md",
-    "2_Area/Daily/20231106.md",
-    "2_Area/Daily/글또.md",
-    "2_Area/Daily/20231116 스터디.md",
-    "3_Resource/Kafka/consumer.md",
     "Attachments/스크린샷 2023-11-29 오전 9.53.47.png",
     "Attachments/스크린샷 2023-11-29 오전 9.55.52.png",
-    "3_Resource/Kafka/producer.md",
     "Attachments/스크린샷 2023-11-29 오전 12.00.06.png",
-    "3_Resource/Kafka/UI for Apache Kafka.md",
     "Attachments/스크린샷 2023-11-28 오후 2.24.29.png",
     "Attachments/스크린샷 2023-11-26 오후 11.52.29.png",
     "Attachments/스크린샷 2023-11-23 오후 10.58.22.png",
     "Attachments/스크린샷 2023-11-23 오후 10.57.36.png",
-    "Attachments/스크린샷 2023-11-23 오후 3.33.34.png",
     "2_Area/용어 모음",
     "2_Area/장애 모음",
     "3_Resource/Docker",
