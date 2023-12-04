@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "db196301259f9a93",
+        "id": "52336a87ac4d74a0",
         "type": "tabs",
         "children": [
           {
-            "id": "8f6508b652d59887",
+            "id": "9e18fef02353ecf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Resource/Spring/schema.sql.md",
+                "file": "2_Area/Kurly/비즈니스 로직 모음/메세지 템플릿 sms 전송 Flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_Resource/Spring/schema.sql.md",
+                "file": "2_Area/Kurly/비즈니스 로직 모음/메세지 템플릿 sms 전송 Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_Resource/Spring/schema.sql.md",
+                "file": "2_Area/Kurly/비즈니스 로직 모음/메세지 템플릿 sms 전송 Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Resource/Spring/schema.sql.md"
+                "file": "2_Area/Kurly/비즈니스 로직 모음/메세지 템플릿 sms 전송 Flow.md"
               }
             }
           },
@@ -155,14 +155,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8f6508b652d59887",
+  "active": "9e18fef02353ecf8",
   "lastOpenFiles": [
+    "1_Projects/롯데택배 이원화/개요 및 배경.md",
+    "Attachments/스크린샷 2023-12-04 오전 9.13.10.png",
+    "2_Area/용어 모음/3PL.md",
+    "스크린샷 2023-10-06 오전 11.04.20.png.md",
+    "2_Area/Ideas/불경기에도 IT 기업을 고집했던 이유?.md",
+    "2_Area/글또 룰.md",
+    "2_Area/Kurly/배송매니저 종류.md",
+    "1_Projects/롯데택배 이원화",
+    "Attachments/스크린샷 2023-12-01 오후 4.40.14.png",
+    "2_Area/용어 모음/지입사.md",
+    "3_Resource/Java/ModelMapper.md",
+    "2_Area/Kurly/stg 환경 배포 절차.md",
+    "1_Projects/Work/20231128 계획.md",
+    "3_Resource/Spring/schema.sql.md",
     "3_Resource/Spring/data.sql.md",
     "3_Resource/Spring/yml 환경변수 주입.md",
     "3_Resource/Spring/WebClient.md",
     "3_Resource/Spring/server.shutdown 옵션.md",
     "3_Resource/Spring/Servlet.md",
-    "3_Resource/Spring/schema.sql.md",
     "2_Area/Kurly/비즈니스 로직 모음/메세지 템플릿 sms 전송 Flow.md",
     "20231130 스터디.md",
     "1_Projects/Work/TOMS 미배송상황을 확장해서 보여주자..md",
@@ -172,18 +185,7 @@
     "3_Resource/Kafka/이벤트 브로커.md",
     "3_Resource/Kafka/broker.md",
     "3_Resource/Kafka/partitioner.md",
-    "3_Resource/Kafka/partition.md",
-    "3_Resource/Kafka/topic.md",
-    "3_Resource/Java/Enum.md",
-    "2_Area/Kurly/BTS.md",
-    "2_Area/글또 룰.md",
     "Attachments/스크린샷 2023-11-29 오후 7.05.07.png",
-    "2_Area/Kurly/비즈니스 로직 모음/주소 정제 Flow.md",
-    "2_Area/Kurly/비즈니스 로직 모음/주문 등록 Flow.md",
-    "2_Area/Kurly/TC 주문 단건 수정.md",
-    "2_Area/Kurly/TC 주문 등록 엑셀 업로드.md",
-    "2_Area/Kurly/TAM.md",
-    "2_Area/Kurly/OPEN API 연동 토큰 생성법.md",
     "2_Area/Kurly/비즈니스 로직 모음",
     "Attachments/스크린샷 2023-11-29 오후 5.17.09.png",
     "Attachments/스크린샷 2023-11-29 오전 11.05.39.png",
@@ -192,8 +194,6 @@
     "Attachments/스크린샷 2023-11-29 오전 12.00.06.png",
     "Attachments/스크린샷 2023-11-28 오후 2.24.29.png",
     "Attachments/스크린샷 2023-11-26 오후 11.52.29.png",
-    "Attachments/스크린샷 2023-11-23 오후 10.58.22.png",
-    "Attachments/스크린샷 2023-11-23 오후 10.57.36.png",
     "2_Area/용어 모음",
     "2_Area/장애 모음",
     "3_Resource/Docker",
@@ -202,7 +202,6 @@
     "3_Resource/VueJs",
     "3_Resource/HTTP",
     "4_Archive/Work",
-    "2_Area/Kurly",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "무제 파일 3.canvas",

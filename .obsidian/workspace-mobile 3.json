@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "2cfff3ea341375d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "765d976fc1e9c47f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b6ef0ff511de9fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_Resource/Kafka/개요.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74c89bd9ee7db42d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5f289f99fca0f31c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4853e594afcd9842",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4a933ca994a5c3a5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "354e618412c1a6a8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b267ae18cbc18d83",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7351f33ef6df394e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "3_Resource/Kafka/개요.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a97397765c08f3b2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "3_Resource/Kafka/개요.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f3de9cd7dc8a145f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "3_Resource/Kafka/개요.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "5f289f99fca0f31c",
+  "lastOpenFiles": [
+    "Attachments/스크린샷 2023-11-11 오후 5.23.55.png",
+    "Attachments/스크린샷 2023-11-16 오후 8.34.31.png",
+    "Attachments/스크린샷 2023-11-11 오후 5.19.23.png",
+    "2_Area/Kurly/주문 등록 및 전송 시나리오.md",
+    "Attachments/스크린샷 2023-10-10 오후 4.16.30.png",
+    "Attachments/스크린샷 2023-11-16 오전 12.24.39.png",
+    "Attachments/스크린샷 2023-11-16 오전 12.32.16.png",
+    "Attachments/스크린샷 2023-10-06 오후 2.12.46.png",
+    "Attachments/스크린샷 2023-10-10 오후 9.49.16.png",
+    "Attachments/스크린샷 2023-10-06 오전 11.09.00.png",
+    "Attachments/스크린샷 2023-10-04 오전 9.28.01.png",
+    "Attachments/스크린샷 2023-10-09 오후 1.49.09.png",
+    "4_Archive/Work/희망휴무 히트율 빅쿼리 스케줄링.md",
+    "4_Archive/Work/빅쿼리 스케줄링 방법.md",
+    "4_Archive/Work/기본 템플릿 적용 클릭 시, '최근 수정자', '최근 수정일' 필드 미표시됨.md",
+    "스크린샷 2023-10-06 오전 11.04.20.png.md",
+    "3_Resource/Kafka/개요.md"
+  ]
+}
