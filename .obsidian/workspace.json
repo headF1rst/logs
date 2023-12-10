@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "eabd4af1e223b2ce",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_Resource/Kafka/@KafkaListner로 Consumer 구현.md",
+                "file": "if-else, switch 성능 비교.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_Resource/Kafka/@KafkaListner로 Consumer 구현.md",
+                "file": "if-else, switch 성능 비교.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Resource/Kafka/@KafkaListner로 Consumer 구현.md"
+                "file": "if-else, switch 성능 비교.md"
               }
             }
           },
@@ -180,10 +181,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "151cb8a70db699e0",
+  "active": "7ef4d5ee663aeff0",
   "lastOpenFiles": [
-    "3_Resource/Kafka/consumer.md",
     "3_Resource/Kafka/@KafkaListner로 Consumer 구현.md",
+    "3_Resource/Kafka/consumer.md",
     "한빛 모니터링.md",
     "if-else, switch 성능 비교.md",
     "1_Projects/롯데택배 이원화/롯데 택배로 전송된 건들의 결과를 갱신하는 consumer 개발..md",
