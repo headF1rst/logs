@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Resource/HTTP/REST API.md",
+                "file": "3_Resource/Kafka/broker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3_Resource/HTTP/REST API.md",
+            "file": "3_Resource/Kafka/broker.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "3_Resource/HTTP/REST API.md",
+            "file": "3_Resource/Kafka/broker.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,8 +114,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "3_Resource/HTTP/REST API.md"
+            "file": "3_Resource/Kafka/broker.md"
           }
+        }
+      },
+      {
+        "id": "09a8d3fa2f198822",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
@@ -128,11 +136,17 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "63c45a1c2d15a63b",
   "lastOpenFiles": [
+    "if-else, switch 성능 비교.md",
+    "3_Resource/Kafka/containerFactory.md",
+    "3_Resource/HTTP/REST API.md",
+    "3_Resource/Kafka/@KafkaListner로 Consumer 구현.md",
+    "한빛 모니터링.md",
     "3_Resource/HTTP/self-descriptive.md",
     "Attachments/스크린샷 2023-11-11 오후 5.19.42.png",
     "Attachments/스크린샷 2023-11-16 오후 10.24.31.png",
@@ -152,8 +166,6 @@
     "4_Archive/Work/희망휴무 히트율 빅쿼리 스케줄링.md",
     "20231207 스터디.md",
     "4_Archive/Work/빅쿼리 스케줄링 방법.md",
-    "3_Resource/HTTP/REST API.md",
-    "한빛 모니터링.md",
     "4_Archive/Work/기본 템플릿 적용 클릭 시, '최근 수정자', '최근 수정일' 필드 미표시됨.md",
     "3_Resource/Test/kotest.md"
   ]

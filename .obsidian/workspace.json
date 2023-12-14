@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a904d1b207abece0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/롯데택배 이원화/롯데 택배로 전송된 건들의 결과를 갱신하는 consumer 개발..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ef4d5ee663aeff0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "if-else, switch 성능 비교.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "151cb8a70db699e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Resource/Kafka/@KafkaListner로 Consumer 구현.md",
+                "file": "3_Resource/Test/assertThatThrownBy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3964339f7f347ba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_Resource/Architecture/헥사고날 아키텍처.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "eabd4af1e223b2ce",
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "if-else, switch 성능 비교.md",
+                "file": "3_Resource/Test/assertThatThrownBy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "if-else, switch 성능 비교.md",
+                "file": "3_Resource/Test/assertThatThrownBy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "if-else, switch 성능 비교.md"
+                "file": "3_Resource/Test/assertThatThrownBy.md"
               }
             }
           },
@@ -181,46 +168,46 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7ef4d5ee663aeff0",
+  "active": "a7d133085be6a130",
   "lastOpenFiles": [
-    "3_Resource/Kafka/@KafkaListner로 Consumer 구현.md",
-    "3_Resource/Kafka/consumer.md",
-    "한빛 모니터링.md",
-    "if-else, switch 성능 비교.md",
+    "3_Resource/Architecture/모듈을 나누는 기준.md",
+    "3_Resource/Architecture/모듈간 의존성 전파.md",
+    "3_Resource/Architecture/레이어 제약조건.md",
+    "3_Resource/Architecture/레이어.md",
     "1_Projects/롯데택배 이원화/롯데 택배로 전송된 건들의 결과를 갱신하는 consumer 개발..md",
-    "1_Projects/롯데택배 이원화/개요 및 배경.md",
-    "Attachments/스크린샷 2023-12-07 오후 5.00.50.png",
-    "3_Resource/Spring/@Bean과 @Component.md",
-    "2_Area/용어 모음/송장 채번.md",
-    "Attachments/스크린샷 2023-12-07 오후 4.37.53.png",
-    "1_Projects/롯데택배 이원화/롯데 택배 송장 채번로직 추가.md",
-    "20231207 스터디.md",
-    "2_Area/용어 모음/주소 정제.md",
+    "3_Resource/Test/assertThatThrownBy.md",
+    "무제 파일 2.md",
+    "3_Resource/CS Basics/트랜잭션 전파.md",
+    "2_Area/Kurly/TC 주문 등록 엑셀 업로드.md",
+    "3_Resource/Test/@EmbeddedKafka.md",
+    "3_Resource/Kafka/kafkaTemplate.md",
+    "3_Resource/Test/stub.md",
+    "3_Resource/Spring/@JsonProperty.md",
+    "3_Resource/Test/assertAll.md",
+    "3_Resource/Test/ParameterizedTest.md",
+    "3_Resource/Test/ATDD.md",
     "3_Resource/Test/kotest.md",
-    "3_Resource/Kotiln/Primitive Type, Reference Type.md",
-    "3_Resource/Java/Java 버전 교체.md",
-    "1_Projects/Work/TOMS 미배송상황을 확장해서 보여주자..md",
-    "4_Archive/Work/20231128 계획.md",
-    "1_Projects/Work/사소한 코드 수정건.md",
-    "3_Resource/Benchmark/JMH.md",
-    "3_Resource/Kotiln/공변.md",
-    "2_Area/Kurly/비즈니스 로직 모음/메세지 템플릿 sms 전송 Flow.md",
+    "3_Resource/Test/rest-assured.md",
+    "1_Projects/롯데택배 이원화/개요 및 배경.md",
+    "1_Projects/롯데택배 이원화/롯데 택배 송장 채번로직 추가.md",
+    "3_Resource/Kafka/containerFactory.md",
+    "스크린샷 2023-12-12 오후 2.35.52.png",
+    "스크린샷 2023-12-12 오후 2.35.28.png",
+    "스크린샷 2023-12-12 오후 2.35.04.png",
+    "2_Area/Kurly/TC주문 등록.md",
+    "2_Area/Kurly/비즈니스 로직 모음/주문 등록 Flow.md",
+    "2_Area/Kurly/비즈니스 로직 모음/주소 정제 Flow.md",
+    "if-else, switch 성능 비교.md",
+    "3_Resource/Benchmark/JMH Visualizer.md",
+    "Attachments/스크린샷 2023-12-07 오후 5.00.50.png",
+    "Attachments/스크린샷 2023-12-07 오후 4.37.53.png",
     "Attachments/스크린샷 2023-12-04 오전 9.13.10.png",
-    "2_Area/용어 모음/3PL.md",
-    "스크린샷 2023-10-06 오전 11.04.20.png.md",
-    "2_Area/Ideas/불경기에도 IT 기업을 고집했던 이유?.md",
-    "2_Area/글또 룰.md",
-    "2_Area/Kurly/배송매니저 종류.md",
     "1_Projects/롯데택배 이원화",
     "Attachments/스크린샷 2023-12-01 오후 4.40.14.png",
-    "2_Area/용어 모음/지입사.md",
     "Attachments/스크린샷 2023-11-29 오후 7.05.07.png",
     "2_Area/Kurly/비즈니스 로직 모음",
     "Attachments/스크린샷 2023-11-29 오후 5.17.09.png",
     "Attachments/스크린샷 2023-11-29 오전 11.05.39.png",
-    "Attachments/스크린샷 2023-11-29 오전 9.53.47.png",
-    "Attachments/스크린샷 2023-11-29 오전 9.55.52.png",
-    "Attachments/스크린샷 2023-11-29 오전 12.00.06.png",
     "2_Area/용어 모음",
     "2_Area/장애 모음",
     "3_Resource/Docker",
