@@ -1,6 +1,8 @@
 #papercut 
 
-카
+카프카 컨슈머에 의해서 소비된 메시지를, 비즈니스 로직에 의해 수행될 수 있는 데이터로 가공하기 위한 **전처리**를 담당.
+
+ex) 메시지 필터링, 역직렬화...
 
 ```java
 @EnableKafka
@@ -28,3 +30,4 @@ public class KafkaConsumerConfig {
 	}
 }
 ```
+
