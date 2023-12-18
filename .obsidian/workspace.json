@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/롯데택배 이원화/롯데 택배로 전송된 건들의 결과를 갱신하는 consumer 개발..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a55c1fb955eea83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_Resource/Kafka/kafkaTemplate.md",
+                "file": "3_Resource/Kafka/consumer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/롯데택배 이원화/롯데 택배로 전송된 건들의 결과를 갱신하는 consumer 개발..md",
+                "file": "3_Resource/Kafka/consumer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/롯데택배 이원화/롯데 택배로 전송된 건들의 결과를 갱신하는 consumer 개발..md",
+                "file": "3_Resource/Kafka/consumer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/롯데택배 이원화/롯데 택배로 전송된 건들의 결과를 갱신하는 consumer 개발..md"
+                "file": "3_Resource/Kafka/consumer.md"
               }
             }
           },
@@ -168,12 +155,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a7d133085be6a130",
+  "active": "490157b0538e96ac",
   "lastOpenFiles": [
+    "1_Projects/롯데택배 이원화/롯데 택배로 전송된 건들의 결과를 갱신하는 consumer 개발..md",
+    "3_Resource/Docker/docker compose yaml 파일 옵션.md",
+    "3_Resource/Docker/docker compose.md",
+    "3_Resource/Docker/컨테이너.md",
+    "3_Resource/Docker/도커 컨테이너.md",
+    "3_Resource/Docker/도커를 사용하는 이유.md",
+    "3_Resource/Docker/도커 이미지.md",
+    "Attachments/스크린샷 2023-12-18 오전 1.01.15.png",
+    "Attachments/스크린샷 2023-12-18 오전 12.57.25.png",
+    "3_Resource/Kafka/kafkaTemplate.md",
     "Attachments/스크린샷 2023-12-17 오후 11.36.53.png",
     "3_Resource/Kafka/DLT.md",
     "3_Resource/Architecture/모듈을 나누는 기준.md",
-    "1_Projects/롯데택배 이원화/롯데 택배로 전송된 건들의 결과를 갱신하는 consumer 개발..md",
     "3_Resource/Spring/gradle.properties.md",
     "3_Resource/Architecture/모듈간 의존성 전파.md",
     "3_Resource/Architecture/레이어 제약조건.md",
@@ -181,7 +177,6 @@
     "3_Resource/Architecture/레이어.md",
     "3_Resource/Kafka/KafkaListenerContainerFactory.md",
     "3_Resource/Kafka/containerFactory.md",
-    "3_Resource/Kafka/kafkaTemplate.md",
     "ActiveMQ.md",
     "if-else, switch 성능 비교.md",
     "JMS.md",
@@ -195,19 +190,11 @@
     "3_Resource/Test/assertThatThrownBy.md",
     "3_Resource/CS Basics/트랜잭션 전파.md",
     "2_Area/Kurly/TC 주문 등록 엑셀 업로드.md",
-    "3_Resource/Test/@EmbeddedKafka.md",
-    "3_Resource/Test/stub.md",
-    "3_Resource/Spring/@JsonProperty.md",
-    "3_Resource/Test/assertAll.md",
-    "3_Resource/Test/ParameterizedTest.md",
     "Attachments/스크린샷 2023-12-07 오후 5.00.50.png",
     "Attachments/스크린샷 2023-12-07 오후 4.37.53.png",
     "Attachments/스크린샷 2023-12-04 오전 9.13.10.png",
     "1_Projects/롯데택배 이원화",
-    "Attachments/스크린샷 2023-12-01 오후 4.40.14.png",
-    "Attachments/스크린샷 2023-11-29 오후 7.05.07.png",
     "2_Area/Kurly/비즈니스 로직 모음",
-    "Attachments/스크린샷 2023-11-29 오후 5.17.09.png",
     "2_Area/용어 모음",
     "2_Area/장애 모음",
     "3_Resource/Docker",
