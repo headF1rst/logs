@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Resource/Kafka/consumer.md",
+                "file": "1_Projects/Work/대등배송 유형과 어려운상황 유형을 추가해서 검색기능이 잘되게 하자.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c175b86def77fb24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_Resource/Spring/RestTemplate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_Resource/Kafka/consumer.md",
+                "file": "3_Resource/Spring/RestTemplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_Resource/Kafka/consumer.md",
+                "file": "3_Resource/Spring/RestTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Resource/Kafka/consumer.md"
+                "file": "3_Resource/Spring/RestTemplate.md"
               }
             }
           },
@@ -155,44 +168,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "490157b0538e96ac",
+  "active": "c175b86def77fb24",
   "lastOpenFiles": [
+    "3_Resource/Spring/UriComponentsBuilder.md",
+    "3_Resource/Spring/spring boot.md",
+    "3_Resource/Spring/Web Component.md",
+    "3_Resource/Spring/Web Container.md",
+    "3_Resource/Spring/yml 환경변수 주입.md",
+    "3_Resource/Spring/WebClient.md",
+    "3_Resource/Spring/ApiIgnore.md",
+    "3_Resource/Spring/consumes, produces.md",
+    "3_Resource/Spring/data.sql.md",
+    "3_Resource/Spring/Feign.md",
+    "3_Resource/Spring/gradle.properties.md",
+    "3_Resource/Spring/Profile.md",
+    "3_Resource/Spring/RestTemplate.md",
+    "3_Resource/Spring/Retrofit.md",
+    "Attachments/스크린샷 2023-12-19 오전 9.35.05.png",
+    "1_Projects/Work/TOMS 미배송상황을 확장해서 보여주자..md",
+    "1_Projects/Work/대등배송 유형과 어려운상황 유형을 추가해서 검색기능이 잘되게 하자.md",
+    "1_Projects/ELB.md",
+    "1_Projects/Work/사소한 코드 수정건.md",
+    "1_Projects/롯데택배 이원화/개요 및 배경.md",
+    "1_Projects/롯데택배 이원화/롯데 택배 송장 채번로직 추가.md",
     "1_Projects/롯데택배 이원화/롯데 택배로 전송된 건들의 결과를 갱신하는 consumer 개발..md",
+    "3_Resource/Kafka/consumer.md",
+    "1_Projects/강릉 여행 plan.md",
     "3_Resource/Docker/docker compose yaml 파일 옵션.md",
     "3_Resource/Docker/docker compose.md",
     "3_Resource/Docker/컨테이너.md",
-    "3_Resource/Docker/도커 컨테이너.md",
-    "3_Resource/Docker/도커를 사용하는 이유.md",
-    "3_Resource/Docker/도커 이미지.md",
     "Attachments/스크린샷 2023-12-18 오전 1.01.15.png",
     "Attachments/스크린샷 2023-12-18 오전 12.57.25.png",
-    "3_Resource/Kafka/kafkaTemplate.md",
     "Attachments/스크린샷 2023-12-17 오후 11.36.53.png",
-    "3_Resource/Kafka/DLT.md",
-    "3_Resource/Architecture/모듈을 나누는 기준.md",
-    "3_Resource/Spring/gradle.properties.md",
-    "3_Resource/Architecture/모듈간 의존성 전파.md",
-    "3_Resource/Architecture/레이어 제약조건.md",
-    "3_Resource/Architecture/헥사고날 아키텍처.md",
-    "3_Resource/Architecture/레이어.md",
-    "3_Resource/Kafka/KafkaListenerContainerFactory.md",
-    "3_Resource/Kafka/containerFactory.md",
-    "ActiveMQ.md",
-    "if-else, switch 성능 비교.md",
-    "JMS.md",
-    "Tasklet.md",
-    "20231207 스터디.md",
-    "무제 파일 2.md",
     "Attachments/스크린샷 2023-12-12 오후 2.35.04.png",
     "Attachments/스크린샷 2023-12-14 오후 11.20.04.png",
     "Attachments/스크린샷 2023-12-12 오후 2.35.52.png",
     "Attachments/스크린샷 2023-12-12 오후 2.35.28.png",
-    "3_Resource/Test/assertThatThrownBy.md",
-    "3_Resource/CS Basics/트랜잭션 전파.md",
-    "2_Area/Kurly/TC 주문 등록 엑셀 업로드.md",
     "Attachments/스크린샷 2023-12-07 오후 5.00.50.png",
     "Attachments/스크린샷 2023-12-07 오후 4.37.53.png",
-    "Attachments/스크린샷 2023-12-04 오전 9.13.10.png",
     "1_Projects/롯데택배 이원화",
     "2_Area/Kurly/비즈니스 로직 모음",
     "2_Area/용어 모음",
