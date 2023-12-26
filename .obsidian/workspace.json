@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a9972d3767129a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_Resource/Architecture/헥사고날 아키텍처.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa2826cde0aed25c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Area/Kurly/stg 환경 배포 절차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "daf1b6e970a49537",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Area/장애 모음/231221 RPS-ADMIN 인스턴스 다운.md",
+                "file": "1_Projects/Work/대등배송 유형과 어려운상황 유형을 추가해서 검색기능이 잘되게 하자.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e43a6d0f899690ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/Work/TOMS 미배송상황을 확장해서 보여주자..md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Area/Kurly/stg 환경 배포 절차.md",
+                "file": "1_Projects/Work/TOMS 미배송상황을 확장해서 보여주자..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Area/Kurly/stg 환경 배포 절차.md",
+                "file": "1_Projects/Work/TOMS 미배송상황을 확장해서 보여주자..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Area/Kurly/stg 환경 배포 절차.md"
+                "file": "1_Projects/Work/TOMS 미배송상황을 확장해서 보여주자..md"
               }
             }
           },
@@ -180,21 +168,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "aa2826cde0aed25c",
+  "active": "a7d133085be6a130",
   "lastOpenFiles": [
-    "스크린샷 2023-12-22 오후 2.45.38.png",
+    "1_Projects/Work/대등배송 유형과 어려운상황 유형을 추가해서 검색기능이 잘되게 하자.md",
+    "4_Archive/깃헙 계정 여러개 사용하기.md",
+    "if-else, switch 성능 비교.md",
     "2_Area/장애 모음/231221 RPS-ADMIN 인스턴스 다운.md",
+    "스크린샷 2023-12-23 오후 9.10.43.png",
+    "3_Resource/Architecture/헥사고날 아키텍처.md",
+    "스크린샷 2023-12-23 오후 9.17.18.png",
     "2_Area/Kurly/stg 환경 배포 절차.md",
+    "스크린샷 2023-12-22 오후 2.45.38.png",
     "2_Area/Kurly/개발 환경 배포 절차.md",
     "2_Area/Kurly/DOS.md",
     "무제 파일.md",
-    "3_Resource/Architecture/헥사고날 아키텍처.md",
     "2_Area/장애 모음/231116 배송매니저 앱 세션 만료.md",
     "Attachments/스크린샷 2023-12-21 오전 11.53.21.png",
     "20231207 스터디.md",
     "2_Area/장애 모음/231120 근태값 4개 설정 버그.md",
     "1_Projects/롯데택배 이원화/롯데 택배로 전송된 건들의 결과를 갱신하는 consumer 개발..md",
-    "1_Projects/Work/대등배송 유형과 어려운상황 유형을 추가해서 검색기능이 잘되게 하자.md",
     "1_Projects/Work/사소한 코드 수정건.md",
     "1_Projects/Work/TOMS 미배송상황을 확장해서 보여주자..md",
     "한빛 모니터링.md",
@@ -208,7 +200,6 @@
     "3_Resource/Architecture/레이어.md",
     "2_Area/Daily/TODO.md",
     "2_Area/Daily/2023-10-16.md",
-    "2_Area/Daily/2023-10-09.md",
     "3_Resource/etc",
     "3_Resource/Infra",
     "Attachments/스크린샷 2023-12-19 오전 9.35.05.png",
@@ -217,9 +208,6 @@
     "Attachments/스크린샷 2023-12-17 오후 11.36.53.png",
     "Attachments/스크린샷 2023-12-12 오후 2.35.04.png",
     "Attachments/스크린샷 2023-12-14 오후 11.20.04.png",
-    "Attachments/스크린샷 2023-12-12 오후 2.35.52.png",
-    "Attachments/스크린샷 2023-12-12 오후 2.35.28.png",
-    "Attachments/스크린샷 2023-12-07 오후 5.00.50.png",
     "1_Projects/롯데택배 이원화",
     "2_Area/Kurly/비즈니스 로직 모음",
     "2_Area/용어 모음",
