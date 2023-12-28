@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "24caa91cea48b99d",
+        "id": "91ca56b75ba6cfe7",
         "type": "tabs",
         "children": [
           {
-            "id": "daf1b6e970a49537",
+            "id": "f8555dd1b5c66732",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Resource/HTTP/close wait.md",
+                "file": "3_Resource/CS Basics/CLOSE_WAIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e60051559b7407dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_Resource/CS Basics/포트와 소켓.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_Resource/HTTP/close wait.md",
+                "file": "3_Resource/CS Basics/포트와 소켓.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_Resource/HTTP/close wait.md",
+                "file": "3_Resource/CS Basics/포트와 소켓.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Resource/HTTP/close wait.md"
+                "file": "3_Resource/CS Basics/포트와 소켓.md"
               }
             }
           },
@@ -155,46 +168,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "daf1b6e970a49537",
+  "active": "e60051559b7407dd",
   "lastOpenFiles": [
-    "3_Resource/Spring/서버 행업.md",
-    "3_Resource/HTTP/close wait.md",
-    "Attachments/스크린샷 2023-12-23 오후 9.10.43.png",
-    "Attachments/스크린샷 2023-12-23 오후 9.17.18.png",
-    "3_Resource/Kotiln/루틴과 코루틴.md",
-    "2_Area/장애 모음/231221 RPS-ADMIN 인스턴스 다운.md",
-    "1_Projects/Work/대등배송 유형과 어려운상황 유형을 추가해서 검색기능이 잘되게 하자.md",
-    "3_Resource/Kotiln/공변.md",
-    "1_Projects/Work/TOMS 미배송상황을 확장해서 보여주자..md",
-    "4_Archive/깃헙 계정 여러개 사용하기.md",
-    "if-else, switch 성능 비교.md",
-    "3_Resource/Architecture/헥사고날 아키텍처.md",
-    "2_Area/Kurly/stg 환경 배포 절차.md",
-    "스크린샷 2023-12-22 오후 2.45.38.png",
-    "2_Area/Kurly/개발 환경 배포 절차.md",
-    "2_Area/Kurly/DOS.md",
-    "2_Area/장애 모음/231116 배송매니저 앱 세션 만료.md",
-    "Attachments/스크린샷 2023-12-21 오전 11.53.21.png",
-    "20231207 스터디.md",
-    "2_Area/장애 모음/231120 근태값 4개 설정 버그.md",
-    "1_Projects/롯데택배 이원화/롯데 택배로 전송된 건들의 결과를 갱신하는 consumer 개발..md",
-    "1_Projects/Work/사소한 코드 수정건.md",
-    "한빛 모니터링.md",
-    "3_Resource/Spring/data.sql.md",
-    "1_Projects/ELB.md",
-    "1_Projects/롯데택배 이원화/롯데 택배 송장 채번로직 추가.md",
-    "1_Projects/롯데택배 이원화/개요 및 배경.md",
-    "1_Projects/롯데택배 이원화/개발환경 통합 테스트.md",
+    "3_Resource/CS Basics/네트워크 계층 구조.md",
+    "3_Resource/CS Basics/socket.md",
+    "3_Resource/CS Basics/connection-oriented.md",
+    "Attachments/스크린샷 2023-12-28 오후 11.55.29.png",
+    "3_Resource/CS Basics/포트와 소켓.md",
+    "Attachments/스크린샷 2023-12-29 오전 12.29.47.png",
+    "Attachments/스크린샷 2023-12-29 오전 12.16.34.png",
+    "Attachments/스크린샷 2023-12-29 오전 12.13.45.png",
+    "Attachments/스크린샷 2023-12-29 오전 12.04.05.png",
+    "3_Resource/CS Basics/엔드 포인트.md",
+    "Attachments/스크린샷 2023-12-28 오후 9.56.54.png",
+    "3_Resource/CS Basics/CLOSE_WAIT.md",
     "3_Resource/etc/git 형상관리와 협업.md",
+    "3_Resource/etc/merge.md",
     "3_Resource/etc/rebase.md",
+    "Attachments/스크린샷 2023-12-28 오후 5.56.58.png",
+    "Attachments/스크린샷 2023-12-28 오후 6.00.13.png",
+    "Attachments/스크린샷 2023-12-28 오후 6.00.58.png",
+    "Attachments/스크린샷 2023-12-28 오후 6.08.43.png",
+    "3_Resource/Docker/docker compose yaml 파일 옵션.md",
+    "3_Resource/Docker/docker compose.md",
+    "3_Resource/Java/Helper class.md",
+    "1_Projects/Work/TOMS 미배송상황을 확장해서 보여주자..md",
+    "2_Area/Kurly/비즈니스 로직 모음/주문 등록 Flow.md",
+    "2_Area/Kurly/TC 주문 등록 엑셀 업로드.md",
+    "2_Area/Kurly/TC주문 등록.md",
+    "3_Resource/Java/Java 버전 교체.md",
+    "3_Resource/Spring/spring boot.md",
+    "4_Archive/Note/학자형 야생형 학습법.md",
+    "1_Projects/롯데택배 이원화/롯데 택배로 전송된 건들의 결과를 갱신하는 consumer 개발..md",
+    "1_Projects/eqauls & hashCode.md",
+    "2_Area/Daily/고민.md",
+    "2_Area/Daily/글또.md",
+    "2_Area/Daily/무제 파일.md",
+    "2_Area/Daily/무제 파일 2.md",
     "3_Resource/etc",
     "3_Resource/Infra",
-    "Attachments/스크린샷 2023-12-19 오전 9.35.05.png",
-    "Attachments/스크린샷 2023-12-18 오전 1.01.15.png",
-    "Attachments/스크린샷 2023-12-18 오전 12.57.25.png",
-    "Attachments/스크린샷 2023-12-17 오후 11.36.53.png",
-    "Attachments/스크린샷 2023-12-12 오후 2.35.04.png",
-    "Attachments/스크린샷 2023-12-14 오후 11.20.04.png",
     "1_Projects/롯데택배 이원화",
     "2_Area/Kurly/비즈니스 로직 모음",
     "2_Area/용어 모음",

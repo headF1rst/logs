@@ -8,6 +8,12 @@
 ```bash
 export JAVA_HOME=$(/usr/libexec/java_home -v 11)
 ```
+
+17로 변경
+```shell
+export PATH="/Users/wrhk0mhgdx/Library/Java/JavaVirtualMachines/corretto-17.0.9/Contents/Home/bin:$PATH"
+
+```
 ### 변경되었는지 확인
 ```bash
 java -version
