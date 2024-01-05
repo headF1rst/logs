@@ -50,7 +50,7 @@ where group_no=XX and is_bonus=YY and from_date > ZZ
 		where salary > 1500 / 10은 인덱스를 탄다.
 	- 타입이 같아야 한다.
 
-- null갑의 경우 `is null` 조건으로 [[Index Range Scan]]이 가능하다.
+- null값의 경우 `is null` 조건으로 [[Index Range Scan]]이 가능하다.
 
 
 
