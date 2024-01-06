@@ -1,4 +1,4 @@
-#papercut 
+#papercut #Network #TODO
 
 [[TCP 상태 전이]] 종료 과정에서 서버는 Active Close 측으로 부터 FIN을 받고 **CLOSE_WAIT** 상태가 되면서 ACK를 전달한다. 동시에 해당 포트에 연결되어있는 어플리케이션에게 `close()`를 요청한다.
 ### CLOSE_WAIT 종료

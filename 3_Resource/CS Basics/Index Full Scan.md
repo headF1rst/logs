@@ -1,4 +1,4 @@
-#papercut 
+#papercut #Database 
 
 인덱스의 처음부터 끝까지 모두 읽는 방식.
 

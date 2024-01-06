@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27cda0649512707a",
+        "id": "cc1fe77b5d4da113",
         "type": "tabs",
         "children": [
           {
-            "id": "a4d72e3e625fbfc1",
+            "id": "ecd51016d805ac2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +20,31 @@
             }
           },
           {
-            "id": "8deeb6fa2b38a395",
+            "id": "59e3fba34d2aef35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Resource/CS Basics/Index Full Scan.md",
+                "file": "1_Projects/retrospect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d07069cabc7656e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "eabd4af1e223b2ce",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/TODO.md",
+                "file": "1_Projects/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/TODO.md",
+                "file": "1_Projects/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/TODO.md"
+                "file": "1_Projects/무제 파일.md"
               }
             }
           },
@@ -167,41 +181,42 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a4d72e3e625fbfc1",
+  "active": "d07069cabc7656e7",
   "lastOpenFiles": [
-    "3_Resource/CS Basics/Index Full Scan.md",
+    "1_Projects/retrospect.md",
+    "1_Projects/무제 파일.md",
+    "4_Archive/Work/빅쿼리 스케줄링 방법.md",
+    "4_Archive/Work/옵저버 패턴 적용 계획.md",
+    "4_Archive/Work/쿼리 상신 목록.md",
+    "4_Archive/Note/PARA 노트관리 기법.md",
     "1_Projects/TODO.md",
-    "3_Resource/CS Basics/Index.md",
+    "2_Area/Daily/휴게시간 제한 해제 개발건 회의록.md",
+    "2_Area/Daily/TODO.md",
+    "2_Area/Daily/무제 파일 2.md",
+    "2_Area/Daily/버버버벅.md",
+    "2_Area/Daily/무제 파일.md",
+    "2_Area/Daily/글또.md",
+    "2_Area/Daily/고민.md",
+    "2_Area/Daily/2023-10-16.md",
+    "3_Resource/CS Basics/랜덤 IO.md",
     "3_Resource/CS Basics/Index Range Scan.md",
-    "Attachments/스크린샷 2024-01-05 오전 1.21.23.png",
-    "무제 파일.md",
-    "Attachments/스크린샷 2024-01-05 오전 1.21.49.png",
-    "IMG_8169.heic",
-    "3_Resource/BigQuery/BigQuery.md",
-    "3_Resource/Architecture/모듈을 나누는 기준.md",
-    "3_Resource/Architecture/모듈간 의존성 전파.md",
-    "3_Resource/Architecture/레이어.md",
-    "Attachments/스크린샷 2024-01-04 오전 10.31.50.png",
+    "3_Resource/CS Basics/유니크 인덱스.md",
+    "랜덤 I/O.md",
+    "랜덤 I",
+    "3_Resource/CS Basics/Index Full Scan.md",
+    "3_Resource/CS Basics/Index.md",
     "3_Resource/CS Basics/GROUP BY.md",
-    "3_Resource/CS Basics/CLOSE_WAIT.md",
     "3_Resource/CS Basics/connection-oriented.md",
+    "3_Resource/CS Basics/CLOSE_WAIT.md",
     "3_Resource/CS Basics/callback.md",
     "3_Resource/CS Basics/CacheEvict.md",
-    "3_Resource/CS Basics/ACID.md",
-    "3_Resource/CS Basics/포트와 소켓.md",
-    "3_Resource/CS Basics/트랜잭션 전파.md",
-    "3_Resource/CS Basics/엔드 포인트.md",
-    "3_Resource/CS Basics/네트워크 계층 구조.md",
-    "1_Projects/찾아볼 거리들/ELB.md",
-    "1_Projects/찾아볼 거리들/require.md",
+    "Attachments/스크린샷 2024-01-05 오전 1.21.23.png",
+    "Attachments/스크린샷 2024-01-05 오전 1.21.49.png",
+    "IMG_8169.heic",
+    "Attachments/스크린샷 2024-01-04 오전 10.31.50.png",
     "1_Projects/찾아볼 거리들",
-    "1_Projects/찾아볼 거리들/toString.md",
-    "1_Projects/찾아볼 거리들/eqauls & hashCode.md",
-    "3_Resource/CS Basics/Full Table Scan.md",
     "Attachments/스크린샷 2024-01-03 오후 9.39.46.png",
     "Attachments/스크린샷 2024-01-03 오후 9.41.03.png",
-    "2_Area/Daily/고민.md",
-    "1_Projects/Work/대등배송 유형과 어려운상황 유형을 추가해서 검색기능이 잘되게 하자.md",
     "Attachments/스크린샷 2023-12-23 오후 9.17.18.png",
     "Attachments/스크린샷 2023-12-23 오후 9.10.43.png",
     "Attachments/스크린샷 2023-12-21 오전 11.53.21.png",
@@ -214,7 +229,6 @@
     "2_Area/Kurly/비즈니스 로직 모음",
     "2_Area/용어 모음",
     "2_Area/장애 모음",
-    "3_Resource/Docker",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "무제 파일 3.canvas",
