@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Resource/Kafka/Virtual Topic.md",
+                "file": "1_Projects/TODO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_Resource/Kafka/Virtual Topic.md",
+                "file": "1_Projects/Work/주문 강제 재전송 기능 flow chart 및 techSpec 문서 작성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_Resource/Kafka/Virtual Topic.md",
+                "file": "1_Projects/Work/주문 강제 재전송 기능 flow chart 및 techSpec 문서 작성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Resource/Kafka/Virtual Topic.md"
+                "file": "1_Projects/Work/주문 강제 재전송 기능 flow chart 및 techSpec 문서 작성.md"
               }
             }
           },
@@ -168,13 +167,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b2d9c990b97e7721",
+  "active": "b0ced52de96d9d19",
   "lastOpenFiles": [
+    "1_Projects/TODO.md",
+    "3_Resource/Kafka/Virtual Topic.md",
     "ActiveMQ.md",
     "JMS.md",
     "Tasklet.md",
-    "3_Resource/Kafka/Virtual Topic.md",
-    "1_Projects/TODO.md",
     "1_Projects/Work/TOMS 미배송상황을 확장해서 보여주자..md",
     "1_Projects/Work/주문 강제 재전송 기능 flow chart 및 techSpec 문서 작성.md",
     "3_Resource/GraphQL/타입 시스템.md",
